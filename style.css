@@ -1,0 +1,87 @@
+.head{}
+.had-logo img{
+    width: 75px;
+    margin-top: 4px;
+}
+.had-meno ul{
+    margin-bottom: 0px;
+}
+.had-meno ul li{
+    display: inline-block;
+}
+.had-meno ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 0 15px;
+    display: inline-block;
+    line-height: 50px;
+}
+.banner-section{
+    background: url(./Latest-Web-Design-Trends-and-Standards.jpg) no-repeat center;
+    background-size: cover;
+    padding: 260px 0;
+}
+.card i {
+    background-color: #00b2b2;
+    font-size: 32px;
+    margin-top: 18px;
+    line-height: 50px;
+    border-radius: 0px 30px 25px;
+    margin-bottom: 20px;
+    color: #fff;
+    height: 54px;
+    width: 46px;
+}
+.notice h3{}
+.notice p{
+    border: 1px solid #767676;
+    padding: 10px ;
+}
+.contect-section{
+    background-color: #717171;
+}
+.contect-section h2 {
+    font-weight: 400;
+    font-size: 37px;
+}
+
+
+.footer{
+    background: rgb(13, 13, 49);
+    color: #fff;
+    padding: 15px 0;
+  
+    box-shadow: 2px solid rgb(103, 101, 107);
+    
+}
+
+.footer-left{
+    float: left;
+    width: 40%;
+    margin-top: 10px;
+}
+.footer-right{
+    float: right;
+    width: 60%;
+    margin-top: 5px;
+}
+.socile-menu{
+   text-align: right;
+   margin-left: 20px;
+}
+.socile-menu li{
+display: inline-block;
+text-align: right;
+
+
+}
+.socile-menu li a{
+    color: aliceblue;
+  margin-right: 10px;
+  font-size: 25px;
+    
+}
+.socile-menu li a:hover{
+    background: rgb(0, 41, 163);
+    transition: 3s;
+}
